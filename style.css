@@ -30,9 +30,9 @@ div.red2 {
 }
 
 span.material-symbols-outlined {
-    position: relative;
-    top: -3px;
-    left: 730px;
+    position: absolute;
+    top: 3px;
+    left: 800px;
     color: rgb(0, 0, 0);
 }
 
